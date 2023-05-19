@@ -13,6 +13,8 @@
 		31D834F42A124B6200E90017 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31D834F22A124B6200E90017 /* Main.storyboard */; };
 		31D834F62A124B6500E90017 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31D834F52A124B6500E90017 /* Assets.xcassets */; };
 		31D834F92A124B6500E90017 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31D834F72A124B6500E90017 /* LaunchScreen.storyboard */; };
+		31D835012A12512900E90017 /* LaunchScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D835002A12512900E90017 /* LaunchScreenViewController.swift */; };
+		31D835032A125AAD00E90017 /* OnBoardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D835022A125AAD00E90017 /* OnBoardingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		31D834F52A124B6500E90017 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31D834F82A124B6500E90017 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		31D834FA2A124B6500E90017 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31D835002A12512900E90017 /* LaunchScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreenViewController.swift; sourceTree = "<group>"; };
+		31D835022A125AAD00E90017 /* OnBoardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				31D834F52A124B6500E90017 /* Assets.xcassets */,
 				31D834F72A124B6500E90017 /* LaunchScreen.storyboard */,
 				31D834FA2A124B6500E90017 /* Info.plist */,
+				31D835002A12512900E90017 /* LaunchScreenViewController.swift */,
+				31D835022A125AAD00E90017 /* OnBoardingViewController.swift */,
 			);
 			path = DatingApp;
 			sourceTree = "<group>";
@@ -140,7 +146,9 @@
 			files = (
 				31D834F12A124B6200E90017 /* ViewController.swift in Sources */,
 				31D834ED2A124B6200E90017 /* AppDelegate.swift in Sources */,
+				31D835012A12512900E90017 /* LaunchScreenViewController.swift in Sources */,
 				31D834EF2A124B6200E90017 /* SceneDelegate.swift in Sources */,
+				31D835032A125AAD00E90017 /* OnBoardingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
