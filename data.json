@@ -1,0 +1,19 @@
+{
+  "carouselData": [
+    {
+      "title": "Hello1",
+      "description": "description 1",
+      "image": "https://raw.githubusercontent.com/BorisZI/DatingApp/main/photo.png"
+    },
+    {
+      "title": "Hello2",
+      "description": "description 2",
+      "image": "https://raw.githubusercontent.com/BorisZI/DatingApp/main/photo3.png"
+    },
+    {
+      "title": "Hello3",
+      "description": "description 3",
+      "image": "https://raw.githubusercontent.com/BorisZI/DatingApp/main/photo3.png"
+    }
+  ]
+}
